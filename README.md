@@ -1,5 +1,12 @@
-# CaprPhenotypePheburary
+# Notice
 
+**ARCHIVED**
+
+**TRANSFERED TO OHDSI-STUDIES ORGANIZATION**
+
+This personal repository has been archived and moved to [ohdsi-studies](https://github.com/ohdsi-studies/PhenotypePhebruaryCapr). Join us there!!
+
+# CaprPhenotypePheburary
 
 For Phenotype Pheburary, we are testing out programmatic cohort creation using Capr. This project will be used to debug Capr, assess areas of improvement and provide examples of how to use Capr for cohort creation. To participate in the project please install [`Capr`](https://github.com/OHDSI/Capr), make sure you have access to an OMOP CDM (connecting to vocabulary, clinical and results tables), and that you can write cohorts to a results schema on your backend db. We hope through this project we can address issues with `Capr`, improve analysis pipelines in OHDSI, and that you have fun coding and building cohorts!
 
