@@ -1,5 +1,9 @@
 # Phenotype Phebruary Day 1 – Type 2 diabetes mellitus
-# https://forums.ohdsi.org/t/phenotype-phebruary-day-1-type-2-diabetes-mellitus/15764
+# Author: Adam Black
+# Date: 2/9/2022
+
+# ATLAS Link: https://forums.ohdsi.org/t/phenotype-phebruary-day-1-type-2-diabetes-mellitus/15764
+# Notes: 
 
 # Patrick Ryan developed three Type 2 diabetes definitions for day 1
 
