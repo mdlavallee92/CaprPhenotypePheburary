@@ -50,13 +50,13 @@ If you encounter any bugs with Capr, please post an issue first to this reposito
 
 This repository is not an R package so it follows a non-standard organizational structure. Please use the Rproj when collaborating but be sure to no upload .Rhistory to any branch in the repository, it should be set in the .gitignore. The organization of the project is subject to change as the project progresses.  The primary folders in this repository are: 
 
-- **results**: this contains the code for each day in Phenotype Pheburary labeled day 1 through day 28.
-  -*R*: contains Capr R code used to create cohort definitions
-  -*json*: contains the json files used to identify the cohort definitions
-  -*output*: contains the txt file outputs from the function `Capr::writeCaprCall`, if it is used
-- **extras**: contains additional files pretaining to the project
-  - `codeToRun.R` template file used to configure your session for the Phenotype Pheburary project
-  - `PhenotypePheburaryAssignmentSheet.csv` file to track and assign phenotypes to developers.
+- **results**: this contains the code for each day in Phenotype Pheburary labeled day 1 through day 28.    
+  -*R*: contains Capr R code used to create cohort definitions   
+  -*json*: contains the json files used to identify the cohort definitions   
+  -*output*: contains the txt file outputs from the function `Capr::writeCaprCall`, if it is used   
+- **extras**: contains additional files pretaining to the project   
+  - `codeToRun.R` template file used to configure your session for the Phenotype Pheburary project   
+  - `PhenotypePheburaryAssignmentSheet.csv` file to track and assign phenotypes to developers.   
 
 
 # Questions
