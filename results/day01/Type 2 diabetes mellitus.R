@@ -1,4 +1,4 @@
-# PPhenotype Phebruary Day 1 – Type 2 diabetes mellitus
+# Phenotype Phebruary Day 1 – Type 2 diabetes mellitus
 # https://forums.ohdsi.org/t/phenotype-phebruary-day-1-type-2-diabetes-mellitus/15764
 
 # Patrick Ryan developed three Type 2 diabetes definitions for day 1
